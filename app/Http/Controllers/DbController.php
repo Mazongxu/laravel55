@@ -49,4 +49,6 @@ class DbController extends Controller
         ->get();
         dd($res);
     }
+
+
 }
